@@ -1,4 +1,4 @@
-# HR-Analytics-Using-Machine-Learning.
+#  HR Data Analysis and Comparative Algorithm Study
 
 
 **Dataset** 📊
