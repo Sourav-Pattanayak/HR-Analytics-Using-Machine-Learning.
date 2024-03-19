@@ -26,4 +26,5 @@ The HR dataset used for analysis contains 1200 rows and 28 columns. You can acce
 **Conclusion** 🎉
 
 1.The analysis reveals insights into employee performance ratings based on department, gender, age group, education background, and promotion frequency. Additionally, the Random Forest algorithm emerges as the superior choice for predicting performance ratings, offering high accuracy and effective use of data. These findings could aid in HR decision-making processes and workforce management strategies. 📊
+
 2.Random Forest outperformed other algorithms due to its optimal utilization of the entire dataset, reducing bias error, and providing maximum reduction in variance by averaging outputs from an ensemble of decision trees. 🏆
