@@ -1,4 +1,4 @@
-#  HR Data Analysis and Comparative Algorithm Study
+#  HR Data Analysis & Comparative Algorithm Study
 
 
 **Dataset** 📊
